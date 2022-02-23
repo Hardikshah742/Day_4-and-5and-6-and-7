@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: A
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Hardik
+Implementation-Vendor-Id: com.example9
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/A
+Created-By: Maven Integration for Eclipse
+
